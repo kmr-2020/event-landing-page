@@ -1,3 +1,6 @@
-/* body {
-    background-color: aqua;
-} */
+.jumbotron {
+    background-image: url(https://images.pexels.com/photos/690597/pexels-photo-690597.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+p, h1 {
+    color: white;
+}

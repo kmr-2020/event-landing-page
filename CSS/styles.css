@@ -1,6 +1,10 @@
 .jumbotron {
     background-image: url(https://images.pexels.com/photos/690597/pexels-photo-690597.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
-}
-p, h1 {
     color: white;
+    
+}
+
+#tickets {
+    border-top: soldi 2px gray;
+    background-image: url(https://images.pexels.com/photos/358010/pexels-photo-358010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
 }
